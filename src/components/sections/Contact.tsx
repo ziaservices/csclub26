@@ -12,8 +12,8 @@ const contactInfo = [
   {
     icon: Instagram,
     label: "Instagram",
-    value: "@csclub_uit",
-    link: "https://instagram.com/csclub_uit",
+    value: "@cs_club.fsk",
+    link: "https://www.instagram.com/cs_club.fsk",
   },
   {
     icon: Phone,
@@ -24,7 +24,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: "Location",
-    value: "Ibn Tofail University, Kenitra",
+    value: "Science Faculty,  Ibn Tofail University, Kenitra",
     link: "https://maps.google.com",
   },
 ];
@@ -88,7 +88,6 @@ const Contact = () => {
                   <MapPin className="w-12 h-12 text-primary/50" />
                 </div>
                 <p className="text-sm text-center text-muted-foreground">
-                  Map will be embedded here
                 </p>
               </div>
             </CardContent>

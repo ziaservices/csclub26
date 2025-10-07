@@ -3,14 +3,13 @@ import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 
 const members = [
+  { name: "Hajar El-Janany", role: "Vice President", color: "hsl(var(--accent))", photoUrl: "/members/hajar.jpeg" },
   { name: "Allae Elbaze", role: "President", color: "hsl(var(--primary))", photoUrl: "/members/allae.jpeg" },
-  { name: "Hajar El-Janany", role: "Vice President", color: "hsl(var(--accent))", photoUrl: "/members/hajar.jpg" },
   { name: "Hatim Babtai", role: "Media", color: "hsl(var(--primary))", photoUrl: "/members/hatim.jpeg" },
   { name: "Imane Elhadana", role: "Communication", color: "hsl(var(--accent))", photoUrl: "/members/imane_e.jpg" },
   { name: "Doha Mahfoud", role: "Development", color: "hsl(var(--primary))", photoUrl: "/members/doha.jpg" },
   { name: "Yassmine Azoui", role: "Events", color: "hsl(var(--accent))", photoUrl: "/members/yassmine.jpg" },
   { name: "Imane Morchid", role: "HR", color: "hsl(var(--primary))", photoUrl: "/members/imane_m.jpg" },
-  { name: "Mohamed Amine Benhmimou", role: "General Secretary", color: "hsl(var(--accent))", photoUrl: "/members/amine.jpg" },
   { name: "Hadil Elbaze", role: "Supervisor", color: "hsl(var(--primary))", photoUrl: "/members/hadil.jpg" },
 ];
 

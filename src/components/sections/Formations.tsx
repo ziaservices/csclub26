@@ -13,7 +13,7 @@ const formations = [
   },
   {
     icon: Database,
-    title: "Data Science & AI",
+    title: "Machine Learning & Data Science",
     description: "Learn Python, machine learning, and data analysis techniques",
     status: "Coming Soon",
     level: "Intermediate",
