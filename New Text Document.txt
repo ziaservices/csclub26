@@ -1,0 +1,7 @@
+@echo off
+echo Starting Vite server on port 80...
+echo.
+cd /d "%~dp0"
+set PORT=80
+npm run dev
+pause
